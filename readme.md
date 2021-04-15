@@ -35,11 +35,3 @@ Experimental results on benchmarks.
 |SRResNet(my model)|31.96|28.48|27.49|
 |SRGAN(paper)|29.40|26.02|25.16| 
 |SRGAN(my model)|29.93|26.95|26.10| 
-
-### Qualitative Results
-
-| Bicubic | SRResNet | SRGAN |
-| --- | --- | --- |
-| <img src="result/Set14_BIx4/comic_LRBI_x4.png"> |<img src="result/set14_srres_result/res_0004.png"> | <img src="result/set14_srgan_result/res_0004.png"> |
-| <img src="result/Set5_BIx4/woman_LRBI_x4.png"> |<img src="result/set5_srres_result/res_0004.png"> | <img src="result/set5_srgan_result/res_0004.png"> |
-| <img src="result/Set14_BIx4/baboon_LRBI_x4.png"> |<img src="result/set14_srres_result/res_0000.png"> | <img src="result/set14_srgan_result/res_0000.png"> |
